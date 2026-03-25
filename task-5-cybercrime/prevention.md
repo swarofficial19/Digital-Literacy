@@ -33,5 +33,3 @@ National Cyber Crime Portal: [suspicious link removed]
 
 National Helpline: 1930 (Available 24x7) 
 
-Final Task 5 Report Write-up (For your main report)
-While researching UPI fraud, I was most surprised to learn that the "Request Money" feature is the primary tool used by scammers to trick educated individuals into voluntarily entering their PINs. One habit I will personally change is to double-check the transaction message on my screen before entering my PIN; if it says "Paying" instead of "Receiving," I will immediately cancel the transaction.
