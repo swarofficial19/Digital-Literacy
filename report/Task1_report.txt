@@ -1,0 +1,12 @@
+Task 1 Write-up: Digital Literacy Awareness Infographic Platform Used:
+
+For this task, I designed a one-page visual resource using Canva to help my peers understand the pillars of digital literacy.
+
+Content Focus: My infographic focuses on three key areas: professional online presence, safe internet practices, and essential digital tools for engineering students.
+
+Key Learnings: One interesting aspect of this task was learning how to simplify complex information into a visually engaging format.
+
+Challenges: The most difficult part was choosing which information to prioritize to ensure the design remained clean and readable.Word Count Requirement: The brief requires this section to be between 150-200 words in your final written project report.
+
+Repository Requirements for Task 1
+File Storage: You must export or screenshot your final design and add it to the task-1-presentation/ folder in your repository.Evaluation: This task is worth 20 marks, evaluated based on the tool used, visual quality, topic coverage, and your reflection write-up.
